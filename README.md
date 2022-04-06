@@ -1,0 +1,2 @@
+# AstrologyGame
+For logoped project
